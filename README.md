@@ -1,3 +1,3 @@
 # personal-website
 A personal website to present some projects I have done. 
-[Link](https://www.yimiao-zhang.com)
+[->Click here](https://www.yimiao-zhang.com)
